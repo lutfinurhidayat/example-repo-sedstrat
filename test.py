@@ -43,10 +43,10 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70124789/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDEyNDc4OSwicyI6NTczMjA3NzA2LCJjIjozNDUwNzgxNjI3LCJ0IjoxNTk4MjQ0MDAxfQ==--69f89e1093ceecd4efd2b9354e0282d81a9e578e15b9e613c588ea71c69c5bcb" data-refresh-url="/_ws">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70124789/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDEyNDc4OSwicyI6NTczMjA3NzA2LCJjIjozMjAwMDcxNDc2LCJ0IjoxNTk4MjQ0NDcyfQ==--13706a68e34c313b53fe47d68cec7aad5d523c3c620884becc74871c9bcdc1e6" data-refresh-url="/_ws">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="EC51:4B40:1ED549:2B4CD6:5F43449D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d0dbc728a6ca80959a7dbeccfaf838c8cb44bb20" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdmlhbmRpdG8vZXhhbXBsZS1yZXBvLXNlZHN0cmF0L2Jsb2IvbWFzdGVyL3Rlc3QucHkiLCJyZXF1ZXN0X2lkIjoiRUM1MTo0QjQwOjFFRDU0OToyQjRDRDY6NUY0MzQ0OUQiLCJ2aXNpdG9yX2lkIjoiNjQxNzk3MDQyMjIyNzY2NjU2OCIsInJlZ2lvbl9lZGdlIjoiYXAtc291dGhlYXN0LTEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="d3a9044804e3f7b216cf7ee5475c132381797ad5f8aaaf963c4aaf6f12d90f04" data-pjax-transient="true" />
+  <meta name="request-id" content="EC58:2439:10F4384:179FBF9:5F434676" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d0dbc728a6ca80959a7dbeccfaf838c8cb44bb20" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdmlhbmRpdG8vZXhhbXBsZS1yZXBvLXNlZHN0cmF0L2Jsb2IvbWFzdGVyL3Rlc3QucHkiLCJyZXF1ZXN0X2lkIjoiRUM1ODoyNDM5OjEwRjQzODQ6MTc5RkJGOTo1RjQzNDY3NiIsInZpc2l0b3JfaWQiOiI2NDE3OTcwNDIyMjI3NjY2NTY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="c2d141e55905ae8bb40fcce192e1227d37c3389f02b02f4bf85fc82d46713632" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:289809347" data-pjax-transient>
 
@@ -89,7 +89,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NDQzYWQxMmM4OGFhOGVjZjhjNDJkYmJmMGRiZjBjYWRiNDc4NzZmZjM0Njg0MGZlOTYyOWFkMGJkZTg2ODU1OHx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjQuMjE4LjIzNCIsInJlcXVlc3RfaWQiOiJFQzUxOjRCNDA6MUVENTQ5OjJCNENENjo1RjQzNDQ5RCIsInRpbWVzdGFtcCI6MTU5ODI0NDAwMSwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZWVhYTEwYTFjZGViYTk5MmIzMjk2ZjA2MGU4MjIzNmFmODUxOTdmODU4YTc2OTFhNzcyZDU1NTU1OTA4NzkxMnx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjQuMjE4LjIzNCIsInJlcXVlc3RfaWQiOiJFQzU4OjI0Mzk6MTBGNDM4NDoxNzlGQkY5OjVGNDM0Njc2IiwidGltZXN0YW1wIjoxNTk4MjQ0NDcyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
 
@@ -125,7 +125,7 @@
   <body class="logged-in env-production page-responsive page-edit-blob">
     
 
-    <input type="hidden" value="5zoqEIxNPEAhJjd7ihVgR3pNPern5ymOGJxOu1q77+eLMobCrc+e5hunPjhg9r9eaV05hPCeHcEO47UHNXiUhg==" data-csrf="true" class="js-data-websocket-refresh-csrf" />
+    <input type="hidden" value="QTsuEYRSP149CQZO/zylbI1hZh59e9j2g30WMfHwqq4tM4LDpdCd+AeIDw0V33p1nnFicGoC7LmVAu2NnjPRzw==" data-csrf="true" class="js-data-websocket-refresh-csrf" />
 
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
@@ -178,7 +178,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="2PQv7Q1IVctNm+7dmxCdJAQz4Kg7FtyyEPr2fHHL/FyZSYiCD3LiL83RrevIrhusof/M9rZ++Fy2lCcSnRIKkQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="c+/c+nS6iBQ7rb5WEzWrQ7AzoIjPcxLiKP1al0krMEEyUnuVdoA/8Lvn/WBAiy3LFf+M1kIbNgyOk4v5pfLGjA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -329,7 +329,7 @@
       <img class="avatar avatar-user" src="https://avatars1.githubusercontent.com/u/70124789?s=40&amp;v=4" width="20" height="20" alt="@lutfinurhidayat" />
       lutfinurhidayat
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3MpYAjbZi9Q0j4Gl6NjjIV7Ee5ijXL0I6UyUGeTLUJ3L2j35MZv17qfojzzse0Rjot/kT+NgH//FuYoqJdxw5A==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Og2+wqkj1GppaffB2RGClZmKYrzjb6Alakir6K1gRbEtHds5rmGqUPoO+VjdsiXXZZH9a6NTAtJGvbXbbHdlyA==" />
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -349,7 +349,7 @@
   <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
     
 
-    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzAxMjQ3ODkiLCJ0IjoxNTk4MjQ0MDAxfQ==--1ed07b11030a7f23ec84ab9a69d1d0ef34e7ed8dfccce9c75b6f4f9998b3374c">
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzAxMjQ3ODkiLCJ0IjoxNTk4MjQ0NDcyfQ==--5457a01809c83e7cc30e14037ca7e02ff466a2fb25ea10679be881ee1cfc3a4f">
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          aria-label="You have no unread notifications"
@@ -449,7 +449,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Z56tynHmCb93f8+uVsvNKq2OAqxntJk1ExrgWHwSYBAtM85ChC7RvFp2jooctfksi9LPHBYrLdbLit/b4KgdJg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Gw9YtdFy83ej03cFLJS97oZzBOYIvEyt0ttwyC3CsflRojs9JLordI7aNiFm6onooC/JVnkj+E4KS09LsXjMzw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -567,17 +567,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-08-24T05:10:01Z">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-08-24T05:17:52Z">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-08-24T05:40:01Z">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-08-24T05:47:52Z">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-08-24T08:40:01Z">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-08-24T08:47:52Z">
             in 4 hours
           </button>
         </li>
@@ -657,12 +657,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="36e8403cd5a464c72b2d1ed496328dc732b8947801135a8cb8f9018618c0442c" >Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="a42cf86098286ff3d29c819a57bd0b06ceffcbee8780a8afe7cce6960989d69a" >Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="07ACIN9jAsTlq+AnsvG8Nxpa/0cnVWBriYd8ulGMtPrEoGfb2CF8/nbM7r62Uht15kFgkGdpwpylcmKJkJuUgw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MqzHoLXZ4Vc1tbPKokThi7uYZijhwGh0U+MQWGTk+BslvKJbspufbabSvVOm50bJR4P5/6H8yoN/Fg5rpfPYYg==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="ea2276cb71c98428dd568a0ef4c7826f14f67a93a4b9c525301deb8f38d8f163"  role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_aa50" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1598244001231" class="form-control" /><input type="hidden" name="timestamp_secret" value="e7bfca928db1b32defdc060ebb222ac177864ab1d66f9db3a292b3ea42fa3ecf" class="form-control" />
+      <input type="text" name="required_field_f3cd" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1598244472916" class="form-control" /><input type="hidden" name="timestamp_secret" value="e2aedcdc7113ed45b08accec7f45824f91ac9f3753cd6faa5b749f5d72229f90" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -724,7 +724,7 @@
       </p>
       <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="125d0134f6219f475bf57653c7d26a7b0d3009540d4ba492c6efd81aa8b6add6" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="oYJvcDIDp/uR54e49HsmgMRDrxELO2G/xSPiR9EJgAIt+5woeRkl/ccXkVd5EkLWp37xhqP4SR3k2nVNEJwHtg==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="H6Kvz/XvWzabXyalzRUp6ei4eS5Qn1O2eW5RQ2hKvP+T21yXvvXZMM2vMEpAfE2/i4UnufhcexRYl8ZJqd87Sw==" />
       <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="cc7d3f01626ac6173c383905957d96fd7502247da29f90705766d4d9a1aa7f27">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
@@ -762,7 +762,7 @@
       <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="1L5z6wSwHOBiF3QMpU+0tm9BRZ084qY3SQjkuIzdm3CRyuQejfPFQKYZS1E1FAH+PpFqv3GNqfqM6wI+KVZ+0w==" />      <input type="hidden" name="repository_id" value="289809347">
+        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Os1aZ09dXdPspX7lWJ6NE8dvydYJ9sXeSaZqO2E2cZN/uc2Sxh6EcyirQbjIxThblr/m9ESZyhOMRYy9xL2UMA==" />      <input type="hidden" name="repository_id" value="289809347">
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="825cece849dc7517bb58ed7a44c5776e6791c9d314c8d5905bdc880e36348a97" data-ga-click="Repository, click Watch settings, action:blob#edit">          <span data-menu-button>
@@ -837,7 +837,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/aviandito/example-repo-sedstrat/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="wryGoAEdzrR108N5DMl5+0wbJ0ji2DGntiG3RnWT0wik0w+BJGijLig6iXDrcsHB9Pzbx6yaQlVNWSjpDSyO4A==" />
+    <form class="starred js-social-form" action="/aviandito/example-repo-sedstrat/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HkxscDjiCmL8uFd0ahPxQ/ce2B4EesjnnBHDtux9ZW14I+VRHZdn+KFRHX2NqEl5T/kkkUo4uxVnaVwZlMI4hQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar aviandito/example-repo-sedstrat" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="3fd9aedf29ed5820850c52123ce72973875c386c060d1cf153e01aa6f1b87c4c" data-ga-click="Repository, click unstar button, action:blob#edit; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
@@ -846,7 +846,7 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/aviandito/example-repo-sedstrat/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PLcScDlvLjUiw27RJmG5k2cOklxTv2q7RRAewWvz9UVK19FlGLX40M7AvQH+/dWdr/RUhlkclu0+VWbx2DELvg==" />
+    <form class="unstarred js-social-form" action="/aviandito/example-repo-sedstrat/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3b3M/OkYMgJpg1bL2WEE+XTTymXkIglFhEanbJEXUeer3Q/pyMLk54WAhRsB/Wj3vCkMv+6B9RP/A99cItWvHA==" />
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star aviandito/example-repo-sedstrat" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="45d73ae7d4d61c0fa8acdc0330a7d8c8e97b73c9b50a36796749369539311097" data-ga-click="Repository, click star button, action:blob#edit; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
@@ -1011,26 +1011,18 @@
     
   
 
-    <div class="flash-messages ">
-  <div class="flash mx-3">
-    You’re making changes in a project you don’t have write access to.
-    Submitting a change will write it to a new branch in your
-      fork lutfinurhidayat/example-repo-sedstrat,
-    so you can send a pull request.
-  </div>
-</div>
-
+    
 
 
     <div class="file-box ">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="d-none js-blob-preview-form" action="/aviandito/example-repo-sedstrat/preview/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ev76HUTFwuTPlyCTlOpd3v7hvXQs7p7N88o9kWzeYZ9x9AG/os7GSOKO2J8hqBCf1CelzHFEUR+5VFq8SWcAtQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="d-none js-blob-preview-form" action="/aviandito/example-repo-sedstrat/preview/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OnPHfHdjRxbN+Sb05yz3RKr9900d4Buwn7Gp4JOLDmsxeTzekWhDuuDg3vhSbroFgDvv9UBK1GLVL87NtjJvQQ==" />
         <input type="hidden" name="code">
         <input type="hidden" name="commit">
         <input type="hidden" name="blobname">
         <input type="hidden" name="willcreatebranch">
         <input type="hidden" name="checkConflict">
 </form>
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-blob-form" id="new_blob" data-github-confirm-unload="Your edits will be lost." action="/aviandito/example-repo-sedstrat/tree-save/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Ja8oMsImMXUYsQeRzVPIlHIOAFVFm4ShuvVJicb2GC+Oy2Wp2mRgC/4kPECmFmb6SJTnftFH50YB2s3u9S0lIg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-blob-form" id="new_blob" data-github-confirm-unload="Your edits will be lost." action="/aviandito/example-repo-sedstrat/tree-save/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CUJCwywWYje3gUdWWRmJkWsKHIkoy4RcVXIiri9oN/aiJg9YNFQzSVEUfIcyXCf/UZD7orwX57vuXabJHLMK+w==" />
         
 
 
@@ -1709,7 +1701,13 @@
 </details>
 
     </div>
+      <div class="js-template-suggestion d-flex flex-shrink-0 flex-justify-end hide-sm hide-md  d-none" data-template-suggestion-pattern="^(.+\/)?(licen[sc]e|copying)($|\.)">
+          <a class="btn btn-sm" data-template-button href="/aviandito/example-repo-sedstrat/community/license/new?branch=master">Choose a license template</a>
+      </div>
 
+      <div class="js-template-suggestion d-flex flex-auto flex-justify-end hide-sm hide-md  d-none" data-template-suggestion-pattern="^(code.?of.?conduct|coc)($|\.)">
+        <a class="btn btn-sm" data-template-button href="/aviandito/example-repo-sedstrat/community/code-of-conduct/new">Choose a code of conduct template</a>
+      </div>
 
     <input id="blob-edit-path" type="hidden" name="new_filename" class="js-new-filename-field" value="test.py">
     <div class="d-none">
@@ -1844,7 +1842,7 @@ print(&quot;Jangan lupa bahagia ya..&quot;)</textarea>
   </span>
 
   <div class="commit-form position-relative  mb-2 p-3 border-0 border-lg-top border-lg-right border-lg-left border-lg-bottom rounded-1">
-    <h3>Propose changes</h3>
+    <h3>Commit changes</h3>
 
     <div class="text-orange js-too-long-error d-none">
       <svg height="16" class="octicon octicon-light-bulb" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"></path></svg>
@@ -1881,11 +1879,53 @@ print(&quot;Jangan lupa bahagia ya..&quot;)</textarea>
 
 
     
+<div class="form-group mb-0" role="radiogroup" aria-label="Commit choice">
+  <div class="form-checkbox pl-4 mt-0 mb-2">
+    <label class="text-normal">
+      <input type="radio" class="js-quick-pull-choice-option" name="commit-choice" value="direct" autocomplete="off"
+          checked
+
+      >
+        <svg class="octicon octicon-git-commit text-gray mr-1 text-center" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"></path></svg>
+        Commit directly to the <strong class="branch-name">master</strong> branch.
+    </label>
+  </div>
+  <div class="form-checkbox pl-4 my-0">
+    <label class="text-normal" aria-live="polite">
+      <input type="radio" class="form-checkbox-details-trigger js-quick-pull-choice-option" name="commit-choice" value="quick-pull" autocomplete="off"
+      >
+      <svg class="octicon octicon-git-pull-request text-gray mr-1 text-center" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path></svg>
+      Create a <strong>new branch</strong> for this commit and start a pull request.
+      <a href="https://docs.github.com/articles/using-pull-requests" target="_blank">
+        Learn more about pull requests.
+      </a>
+
+      <div class="form-checkbox-details mt-2">
+        <div class="position-relative mt-2 ">
+          <svg class="octicon octicon-git-branch quick-pull-new-branch-icon text-gray-light position-absolute text-center" height="16" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path></svg>
+          <input type="text" value="lutfinurhidayat-patch-1"
+            class="form-control input-contrast mr-1 pl-5 input-monospace js-quick-pull-new-branch-name"
+            placeholder="New branch name"
+            aria-label="New branch name"
+            aria-describedby="quick-pull-normalization-info"
+            data-generated-branch="lutfinurhidayat-patch-1"
+            data-check-url="https://github.com/aviandito/example-repo-sedstrat/ref_check">
+          <input type="hidden" value="PtisA7SWoK2mT1BWheTPUa0RYNDtqS8gGKhMyUUPDBhQZo9C7YIApsheskX6CkesTccxMhrI2jcEYo6momSSyg==" data-csrf="true" class="js-data-check-url-csrf" />
+          <span class="text-gray js-quick-pull-normalization-info" id="quick-pull-normalization-info"></span>
+        </div>
+      </div>
+    </label>
+  </div>
+</div>
+
+<input type="hidden" name="target_branch" class="js-quick-pull-target-branch" value="master" data-default-value="master" autocomplete="off">
+<input type="hidden" name="quick_pull" class="js-quick-pull-choice-value" value="" autocomplete="off">
+
 
   </div>
 
   <input type="hidden" name="commit" class="js-commit-oid" value="15b65f3eb510d1194a1a8ce7122383304668df35">
-    <input type="hidden" name="quick_pull" value="aviandito:master">
+    <input type="hidden" name="same_repo" value="1">
   <input type="hidden" name="pr" value="">
 
   <button type="submit" class="btn btn-primary js-blob-submit flex-auto mx-3 ml-md-3 mr-md-0 ml-lg-0 mb-3 mb-md-0"
@@ -1893,21 +1933,11 @@ print(&quot;Jangan lupa bahagia ya..&quot;)</textarea>
     data-edit-text="Commit changes"
     data-pull-text="Propose changes"
     disabled>
-    Propose changes
+    Commit changes
   </button>
 
     <a class="btn btn-danger flex-auto text-center mx-3 mx-md-0" href="/aviandito/example-repo-sedstrat/blob/master/test.py">Cancel</a>
 
-    <poll-include-fragment src="/lutfinurhidayat/example-repo-sedstrat/check" class="ml-2 d-inline-block js-check-for-fork">
-      <div data-hide-on-error>
-        <img class="v-align-text-bottom" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-        Waiting for your fork…
-      </div>
-      <div data-show-on-error hidden>
-        <svg height="16" class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
-        Something went wrong. Please fork the project, then try from your fork.
-      </div>
-    </poll-include-fragment>
 
   </div>
 
