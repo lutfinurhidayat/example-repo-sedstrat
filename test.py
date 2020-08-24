@@ -43,10 +43,17 @@
   
 
   <link rel="assets" href="https://github.githubassets.com/">
+<<<<<<< HEAD
     <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70124789/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDEyNDc4OSwicyI6NTczMjA3NzA2LCJjIjozMjAwMDcxNDc2LCJ0IjoxNTk4MjQ0NDcyfQ==--13706a68e34c313b53fe47d68cec7aad5d523c3c620884becc74871c9bcdc1e6" data-refresh-url="/_ws">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
   <meta name="request-id" content="EC58:2439:10F4384:179FBF9:5F434676" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d0dbc728a6ca80959a7dbeccfaf838c8cb44bb20" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdmlhbmRpdG8vZXhhbXBsZS1yZXBvLXNlZHN0cmF0L2Jsb2IvbWFzdGVyL3Rlc3QucHkiLCJyZXF1ZXN0X2lkIjoiRUM1ODoyNDM5OjEwRjQzODQ6MTc5RkJGOTo1RjQzNDY3NiIsInZpc2l0b3JfaWQiOiI2NDE3OTcwNDIyMjI3NjY2NTY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="c2d141e55905ae8bb40fcce192e1227d37c3389f02b02f4bf85fc82d46713632" data-pjax-transient="true" />
+=======
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70124789/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDEyNDc4OSwicyI6NTczMjA3NzA2LCJjIjozMTA1NDc2NzkyLCJ0IjoxNTk4MjQyNzE1fQ==--eb059559b7b5f4f24e865caf298cc8791f49e547bf5bba7622ab6a69c26ae5bc" data-refresh-url="/_ws">
+  <link rel="sudo-modal" href="/sessions/sudo_modal">
+
+  <meta name="request-id" content="EC39:4B42:112E16D:17DB7A0:5F433F84" data-pjax-transient="true" /><meta name="html-safe-nonce" content="d0dbc728a6ca80959a7dbeccfaf838c8cb44bb20" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hdmlhbmRpdG8vZXhhbXBsZS1yZXBvLXNlZHN0cmF0L2Jsb2IvbWFzdGVyL3Rlc3QucHkiLCJyZXF1ZXN0X2lkIjoiRUMzOTo0QjQyOjExMkUxNkQ6MTdEQjdBMDo1RjQzM0Y4NCIsInZpc2l0b3JfaWQiOiI2NDE3OTcwNDIyMjI3NjY2NTY4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aGVhc3QtMSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="6c9308319cb2b24d5d79bcfe6af69c47dc6726b2ef7bbc6a7c3645a2200d8bf9" data-pjax-transient="true" />
+>>>>>>> parent of 169dfca... Update test.py
 
     <meta name="hovercard-subject-tag" content="repository:289809347" data-pjax-transient>
 
@@ -89,7 +96,11 @@
 
       <meta name="expected-hostname" content="github.com">
 
+<<<<<<< HEAD
       <meta name="js-proxy-site-detection-payload" content="ZWVhYTEwYTFjZGViYTk5MmIzMjk2ZjA2MGU4MjIzNmFmODUxOTdmODU4YTc2OTFhNzcyZDU1NTU1OTA4NzkxMnx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjQuMjE4LjIzNCIsInJlcXVlc3RfaWQiOiJFQzU4OjI0Mzk6MTBGNDM4NDoxNzlGQkY5OjVGNDM0Njc2IiwidGltZXN0YW1wIjoxNTk4MjQ0NDcyLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+=======
+      <meta name="js-proxy-site-detection-payload" content="NWZiNDM4NjllNWViZDYxZTU5NDI3NmM2YjE4NzliMTRiNDg4OGVhYmM0ZWM3MjljYjc4YjhlZTQ3NTk4ODg5MHx7InJlbW90ZV9hZGRyZXNzIjoiMTE0LjQuMjE4LjIzNCIsInJlcXVlc3RfaWQiOiJFQzM5OjRCNDI6MTEyRTE2RDoxN0RCN0EwOjVGNDMzRjg0IiwidGltZXN0YW1wIjoxNTk4MjQyNzE1LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+>>>>>>> parent of 169dfca... Update test.py
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
 
@@ -125,7 +136,11 @@
   <body class="logged-in env-production page-responsive page-edit-blob">
     
 
+<<<<<<< HEAD
     <input type="hidden" value="QTsuEYRSP149CQZO/zylbI1hZh59e9j2g30WMfHwqq4tM4LDpdCd+AeIDw0V33p1nnFicGoC7LmVAu2NnjPRzw==" data-csrf="true" class="js-data-websocket-refresh-csrf" />
+=======
+    <input type="hidden" value="I4qEqY0+PuX4HDjF8oN9UNycRQz7QAro+1loj5g3uGhPgih7rLycQ8KdMYYYYKJJz4xBYuw5PqftJpMz9/TDCQ==" data-csrf="true" class="js-data-websocket-refresh-csrf" />
+>>>>>>> parent of 169dfca... Update test.py
 
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 bg-blue text-white show-on-focus js-skip-to-content">Skip to content</a>
@@ -178,7 +193,11 @@
           spellcheck="false"
           autocomplete="off"
           >
+<<<<<<< HEAD
           <input type="hidden" value="c+/c+nS6iBQ7rb5WEzWrQ7AzoIjPcxLiKP1al0krMEEyUnuVdoA/8Lvn/WBAiy3LFf+M1kIbNgyOk4v5pfLGjA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+=======
+          <input type="hidden" value="Wxp69I5W6LDWz4h7fDxyS5BJwKg3QfL9Od12HWMZtv8ap92bjGxfVFaFy00vgvTDNYXs9rop1hOfs6dzj8BAMg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+>>>>>>> parent of 169dfca... Update test.py
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -329,7 +348,11 @@
       <img class="avatar avatar-user" src="https://avatars1.githubusercontent.com/u/70124789?s=40&amp;v=4" width="20" height="20" alt="@lutfinurhidayat" />
       lutfinurhidayat
 </a>
+<<<<<<< HEAD
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Og2+wqkj1GppaffB2RGClZmKYrzjb6Alakir6K1gRbEtHds5rmGqUPoO+VjdsiXXZZH9a6NTAtJGvbXbbHdlyA==" />
+=======
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cz2Tu09vcU95X6Ik60CLNLViUTPpfEDH1ku7jfP+cA1kLfZASC0Pdeo4rL3v4yx2SXnO5KlA4jD6vqW+MulQdA==" />
+>>>>>>> parent of 169dfca... Update test.py
       <button type="submit" class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade-15 d-md-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path></svg>
         Sign out
@@ -349,7 +372,11 @@
   <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
     
 
+<<<<<<< HEAD
     <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzAxMjQ3ODkiLCJ0IjoxNTk4MjQ0NDcyfQ==--5457a01809c83e7cc30e14037ca7e02ff466a2fb25ea10679be881ee1cfc3a4f">
+=======
+    <notification-indicator class="js-socket-channel" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzAxMjQ3ODkiLCJ0IjoxNTk4MjQyNzE1fQ==--95d319d12ab30f5c328fe782edc41cd62c0092d58dc1d1daeeb18f50f8039c09">
+>>>>>>> parent of 169dfca... Update test.py
       <a href="/notifications"
          class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
          aria-label="You have no unread notifications"
@@ -449,7 +476,11 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
+<<<<<<< HEAD
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Gw9YtdFy83ej03cFLJS97oZzBOYIvEyt0ttwyC3CsflRojs9JLordI7aNiFm6onooC/JVnkj+E4KS09LsXjMzw==" />
+=======
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?circle=0&amp;compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="pxRjyIjlRLeaaw/mFCK7STdXUUcaWkGkmAng3tEzpqHtuQBAfS2ctLdiTsJeXI9PEQuc92vF9UdAmd9dTYnblw==" />
+>>>>>>> parent of 169dfca... Update test.py
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
@@ -567,17 +598,29 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
+<<<<<<< HEAD
           <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-08-24T05:17:52Z">
+=======
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-08-24T04:48:35Z">
+>>>>>>> parent of 169dfca... Update test.py
             in 30 minutes
           </button>
         </li>
         <li>
+<<<<<<< HEAD
           <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-08-24T05:47:52Z">
+=======
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-08-24T05:18:35Z">
+>>>>>>> parent of 169dfca... Update test.py
             in 1 hour
           </button>
         </li>
         <li>
+<<<<<<< HEAD
           <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-08-24T08:47:52Z">
+=======
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-08-24T08:18:35Z">
+>>>>>>> parent of 169dfca... Update test.py
             in 4 hours
           </button>
         </li>
@@ -617,13 +660,6 @@
 
     <a role="menuitem" class="dropdown-item" href="/lutfinurhidayat?tab=repositories" data-ga-click="Header, go to repositories, text:your repositories" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="534574f52d115734e23fdee9b5909285b09a6971d048cfd1ff2e7b283322a764" >Your repositories</a>
 
-      <a role="menuitem"
-         class="dropdown-item"
-         href="/settings/organizations"
-         
-         data-ga-click="Header, go to organizations, text:your organizations"
-         data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;YOUR_ORGANIZATIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="bb78a00ac47a81033cf437e7087e784959c94721fcb9e7f363e12bc5bc3bcf40"
-         >Your organizations</a>
 
 
     <a role="menuitem" class="dropdown-item" href="/lutfinurhidayat?tab=projects" data-ga-click="Header, go to projects, text:your projects" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;YOUR_PROJECTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="770d0bf4e8bbc047402b946961af587151e88caf9e97ecee638451b216fb668c" >Your projects</a>
@@ -657,12 +693,20 @@
 
     <a role="menuitem" class="dropdown-item" href="https://docs.github.com" data-ga-click="Header, go to help, text:help" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;HELP&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="36e8403cd5a464c72b2d1ed496328dc732b8947801135a8cb8f9018618c0442c" >Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;SETTINGS&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="a42cf86098286ff3d29c819a57bd0b06ceffcbee8780a8afe7cce6960989d69a" >Settings</a>
+<<<<<<< HEAD
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="MqzHoLXZ4Vc1tbPKokThi7uYZijhwGh0U+MQWGTk+BslvKJbspufbabSvVOm50bJR4P5/6H8yoN/Fg5rpfPYYg==" />
+=======
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="JtjkU6jVESmNqUJ3qnt4zU/3lEsS7QRHZPuv0fN9BHoxyIGor5dvEx7OTO6u2N+Ps+wLnFLRprBIDrHiMmokAw==" />
+>>>>>>> parent of 169dfca... Update test.py
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" data-hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;target&quot;:&quot;SIGN_OUT&quot;,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="ea2276cb71c98428dd568a0ef4c7826f14f67a93a4b9c525301deb8f38d8f163"  role="menuitem">
         Sign out
       </button>
+<<<<<<< HEAD
       <input type="text" name="required_field_f3cd" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1598244472916" class="form-control" /><input type="hidden" name="timestamp_secret" value="e2aedcdc7113ed45b08accec7f45824f91ac9f3753cd6faa5b749f5d72229f90" class="form-control" />
+=======
+      <input type="text" name="required_field_ef3c" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1598242715118" class="form-control" /><input type="hidden" name="timestamp_secret" value="85d67e8bf53ea872b49eddc78c346d9cc2ff83259c1914e090c6091e7148f826" class="form-control" />
+>>>>>>> parent of 169dfca... Update test.py
 </form>  </details-menu>
 </details>
 
@@ -724,7 +768,11 @@
       </p>
       <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="125d0134f6219f475bf57653c7d26a7b0d3009540d4ba492c6efd81aa8b6add6" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
+<<<<<<< HEAD
     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="H6Kvz/XvWzabXyalzRUp6ei4eS5Qn1O2eW5RQ2hKvP+T21yXvvXZMM2vMEpAfE2/i4UnufhcexRYl8ZJqd87Sw==" />
+=======
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="t0acroVusVr0l/wivw95Z4zHe3DM2pwxj4C/IgiVeQs7P2/2znQzXKJn6s0yZh0x7/ol52QZtJOueSgoyQD+vw==" />
+>>>>>>> parent of 169dfca... Update test.py
       <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="cc7d3f01626ac6173c383905957d96fd7502247da29f90705766d4d9a1aa7f27">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 16 16" version="1.1" width="16" height="16" role="img"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
 </button></form>  </div>
@@ -762,7 +810,11 @@
       <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
+<<<<<<< HEAD
         <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Os1aZ09dXdPspX7lWJ6NE8dvydYJ9sXeSaZqO2E2cZN/uc2Sxh6EcyirQbjIxThblr/m9ESZyhOMRYy9xL2UMA==" />      <input type="hidden" name="repository_id" value="289809347">
+=======
+        <form data-remote="true" class="d-flex js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uavC58AwgfpnLhhZfk+x+vCdj7uE6T4cB/9FXyYnQWP831USSXNYWqMgJwTuFASyoU2gmcmGMdHCHKPZg6ykwA==" />      <input type="hidden" name="repository_id" value="289809347">
+>>>>>>> parent of 169dfca... Update test.py
 
       <details class="details-reset details-overlay select-menu hx_rsm">
         <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="825cece849dc7517bb58ed7a44c5776e6791c9d314c8d5905bdc880e36348a97" data-ga-click="Repository, click Watch settings, action:blob#edit">          <span data-menu-button>
@@ -837,7 +889,11 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
+<<<<<<< HEAD
     <form class="starred js-social-form" action="/aviandito/example-repo-sedstrat/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HkxscDjiCmL8uFd0ahPxQ/ce2B4EesjnnBHDtux9ZW14I+VRHZdn+KFRHX2NqEl5T/kkkUo4uxVnaVwZlMI4hQ==" />
+=======
+    <form class="starred js-social-form" action="/aviandito/example-repo-sedstrat/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hCz7Bfb+Bc9GGk2QjoHpSuYJa6Bb+4sFECyuP5V21hziQ3Ik04toVRvzB5lpOlFwXu6XLxW5+PfrVDGQ7cmL9A==" />
+>>>>>>> parent of 169dfca... Update test.py
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Unstar aviandito/example-repo-sedstrat" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="3fd9aedf29ed5820850c52123ce72973875c386c060d1cf153e01aa6f1b87c4c" data-ga-click="Repository, click unstar button, action:blob#edit; text:Unstar">        <svg height="16" class="octicon octicon-star-fill" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path></svg>
         Unstar
@@ -846,7 +902,11 @@
            0
         </a>
 </form>
+<<<<<<< HEAD
     <form class="unstarred js-social-form" action="/aviandito/example-repo-sedstrat/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3b3M/OkYMgJpg1bL2WEE+XTTymXkIglFhEanbJEXUeer3Q/pyMLk54WAhRsB/Wj3vCkMv+6B9RP/A99cItWvHA==" />
+=======
+    <form class="unstarred js-social-form" action="/aviandito/example-repo-sedstrat/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="DJHJq4eHc3XvoJj8yYqk/DQpomVtt63k324fdaLulh968Qq+pl2lkAOjSywRFsjy/NNkv2cUUbKkK2dFESxo5A==" />
+>>>>>>> parent of 169dfca... Update test.py
       <input type="hidden" name="context" value="repository"></input>
       <button type="submit" class="btn btn-sm btn-with-count  js-toggler-target" aria-label="Unstar this repository" title="Star aviandito/example-repo-sedstrat" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="45d73ae7d4d61c0fa8acdc0330a7d8c8e97b73c9b50a36796749369539311097" data-ga-click="Repository, click star button, action:blob#edit; text:Star">        <svg height="16" class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
         Star
@@ -859,43 +919,13 @@
   </li>
 
   <li>
-          <div class="float-left">
-            <details class="details-reset details-overlay details-overlay-dark " >
-                    <summary
-                  class="btn btn-sm btn-with-count"
-                  title="Fork your own copy of aviandito/example-repo-sedstrat to your account"
-                  data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="121b4cec6297506b89513d42e3c55d9993e47fd48da2fb48806278d1fe313572" data-ga-click="Repository, show fork modal, action:blob#edit; text:Fork">
-                  <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
-                  Fork
-                </summary>
-
-  <details-dialog
-    class="Box d-flex flex-column anim-fade-in fast Box--overlay"
-      aria-label="Fork example-repo-sedstrat"
-      src="/aviandito/example-repo-sedstrat/fork?fragment=1"
-      preload
-    >
-    <div class="Box-header">
-      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
-        <svg height="16" class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
-      </button>
-      <h1 class="Box-title">Fork example-repo-sedstrat</h1>
-    </div>
-      
-              <div class="text-center overflow-auto">
-                <include-fragment>
-                  <div class="octocat-spinner my-5" aria-label="Loading..."></div>
-                  <p class="f5 text-gray">If this dialog fails to load, you can visit <a href="/aviandito/example-repo-sedstrat/fork">the fork page</a> directly.</p>
-                </include-fragment>
-              </div>
-
-  </details-dialog>
-</details>
-          </div>
-
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/aviandito/example-repo-sedstrat/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gBtEvsZXNFhkLD2lJSxAQqiTGedtj8oMvRhtTqmR3eLjYSRWHIY4faQ6bFZxM7PMhXu/9cq95I5CAIa3dlyBaw==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:289809347,&quot;originating_url&quot;:&quot;https://github.com/aviandito/example-repo-sedstrat/edit/master/test.py&quot;,&quot;user_id&quot;:70124789}}" data-hydro-click-hmac="121b4cec6297506b89513d42e3c55d9993e47fd48da2fb48806278d1fe313572" data-ga-click="Repository, show fork modal, action:blob#edit; text:Fork" type="submit" title="Fork your own copy of aviandito/example-repo-sedstrat to your account" aria-label="Fork your own copy of aviandito/example-repo-sedstrat to your account">              <svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+              Fork
+</button></form>
     <a href="/aviandito/example-repo-sedstrat/network/members" class="social-count"
-       aria-label="1 user forked this repository">
-      1
+       aria-label="0 users forked this repository">
+      0
     </a>
   </li>
 </ul>
@@ -1011,18 +1041,40 @@
     
   
 
+<<<<<<< HEAD
     
 
 
     <div class="file-box ">
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="d-none js-blob-preview-form" action="/aviandito/example-repo-sedstrat/preview/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="OnPHfHdjRxbN+Sb05yz3RKr9900d4Buwn7Gp4JOLDmsxeTzekWhDuuDg3vhSbroFgDvv9UBK1GLVL87NtjJvQQ==" />
+=======
+    <div class="flash-messages ">
+  <div class="flash mx-3">
+    You’re making changes in a project you don’t have write access to.
+      We’ve <strong>created a fork of this project</strong>
+      for you to commit your proposed changes to.
+    Submitting a change will write it to a new branch in your
+      fork,
+    so you can send a pull request.
+  </div>
+</div>
+
+
+
+    <div class="file-box ">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="d-none js-blob-preview-form" action="/aviandito/example-repo-sedstrat/preview/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="86V6O6CpgD0OaOCgax1iGPY4zd7iYdO36/2M0BxtPjn4r4GZRqKEkSNxGKzeXy9Z3P7VZr/LHGWhY+v9OdRfEw==" />
+>>>>>>> parent of 169dfca... Update test.py
         <input type="hidden" name="code">
         <input type="hidden" name="commit">
         <input type="hidden" name="blobname">
         <input type="hidden" name="willcreatebranch">
         <input type="hidden" name="checkConflict">
 </form>
+<<<<<<< HEAD
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-blob-form" id="new_blob" data-github-confirm-unload="Your edits will be lost." action="/aviandito/example-repo-sedstrat/tree-save/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CUJCwywWYje3gUdWWRmJkWsKHIkoy4RcVXIiri9oN/aiJg9YNFQzSVEUfIcyXCf/UZD7orwX57vuXabJHLMK+w==" />
+=======
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-blob-form" id="new_blob" data-github-confirm-unload="Your edits will be lost." action="/aviandito/example-repo-sedstrat/tree-save/master/test.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Tj/z3Cc0A0ek8Vd4vOwaDEg5DfB8oJSrWseFzZomPP3lW75HP3ZSOUJkbKnXqbRicqPq2+h890zh6AGqqf0B8A==" />
+>>>>>>> parent of 169dfca... Update test.py
         
 
 
